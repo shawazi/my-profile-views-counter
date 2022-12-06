@@ -54,7 +54,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/279000759/year.md">
-				flask_microblog-abandoned-
+				Flask_Microblog_Abandoned
 			</a>
 		</td>
 		<td>
@@ -133,38 +133,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/568134029/year.md">
-				Clarusway
-			</a>
-		</td>
-		<td>
-			2022/12/4 4:36 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/568134029/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/570971443/year.md">
-				clarusway-hw
-			</a>
-		</td>
-		<td>
-			2022/12/4 4:36 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/570971443/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/571632630/year.md">
 				death
 			</a>
@@ -198,7 +166,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/573300643/year.md">
-				portfolio
+				HC_CC_01_Portfolio
 			</a>
 		</td>
 		<td>
@@ -214,7 +182,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/573261062/year.md">
-				clarusway-13-22
+				Clarusway_13_22
 			</a>
 		</td>
 		<td>
@@ -246,7 +214,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/573578680/year.md">
-				survey
+				HC_CC_02_Netflix_Survey
 			</a>
 		</td>
 		<td>
@@ -309,7 +277,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/6 1:09 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 6:19 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

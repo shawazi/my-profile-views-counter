@@ -1,6 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [portfolio](https://github.com/shawazi/portfolio)
+### :octocat: [HC_CC_01_Portfolio](https://github.com/shawazi/HC_CC_01_Portfolio)
 ![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573300643/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 1:08 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 6:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/573300643/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573300643/week.md)
 ```
 ### Header
-# portfolio [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573300643/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573300643/year.md)
+# HC_CC_01_Portfolio [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573300643/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573300643/year.md)
 ```readme
-# portfolio [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573300643/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573300643/year.md)
+# HC_CC_01_Portfolio [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573300643/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573300643/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

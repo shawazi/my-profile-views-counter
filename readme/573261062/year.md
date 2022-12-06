@@ -1,6 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [clarusway-13-22](https://github.com/shawazi/clarusway-13-22)
+### :octocat: [Clarusway_13_22](https://github.com/shawazi/Clarusway_13_22)
 ![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573261062/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 1:08 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 6:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/573261062/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573261062/week.md)
 ```
 ### Header
-# clarusway-13-22 [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573261062/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573261062/year.md)
+# Clarusway_13_22 [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573261062/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573261062/year.md)
 ```readme
-# clarusway-13-22 [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573261062/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573261062/year.md)
+# Clarusway_13_22 [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/573261062/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/573261062/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

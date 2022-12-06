@@ -1,6 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [flask_microblog-abandoned-](https://github.com/shawazi/flask_microblog-abandoned-)
+### :octocat: [Flask_Microblog_Abandoned](https://github.com/shawazi/Flask_Microblog_Abandoned)
 ![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/279000759/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/6 1:06 AM UTC</i></small>
+<small><i>Last updated on 2022/12/6 6:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/279000759/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/279000759/week.md)
 ```
 ### Header
-# flask_microblog-abandoned- [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/279000759/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/279000759/year.md)
+# Flask_Microblog_Abandoned [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/279000759/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/279000759/year.md)
 ```readme
-# flask_microblog-abandoned- [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/279000759/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/279000759/year.md)
+# Flask_Microblog_Abandoned [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/279000759/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/279000759/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
