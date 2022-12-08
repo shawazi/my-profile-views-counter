@@ -5,22 +5,22 @@
   "repository": [
     "automate_exercises",
     "Assorted",
-    "flask_microblog-abandoned-",
+    "Flask_Microblog_Abandoned",
     "Tutorials",
-    "Git_Rafe",
+    "shawazi",
     "algotrader",
     "random_private_keys",
-    "Clarusway",
-    "clarusway-hw",
-    "death",
-    "CSS",
-    "portfolio",
-    "clarusway-13-22",
     "react",
-    "survey",
-    "cheat",
+    "death",
     "papa",
-    "shawazi"
-    
+    "cheat",
+    "Clarusway_HW",
+    "Clarusway_13_22",
+    "CSS",
+    "HC_CC_01_Portfolio",
+    "JS_CC_01_Operators",
+    "HC_CC_02_Netflix_Survey",
+    "HC_CC_03_Google",
+    "kaiju"
   ]
 }
