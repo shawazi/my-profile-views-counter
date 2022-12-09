@@ -3,6 +3,7 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
+    "my-profile-views-counter",
     "automate_exercises",
     "Assorted",
     "Flask_Microblog_Abandoned",
