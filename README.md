@@ -21,6 +21,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/574333429/year.md">
+				my-profile-views-counter
+			</a>
+		</td>
+		<td>
+			2022/12/6 6:17 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/574333429/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/263074941/year.md">
 				automate_exercises
 			</a>
@@ -245,6 +261,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/576134974/year.md">
+				JavaScript_Notes
+			</a>
+		</td>
+		<td>
+			2022/12/6 6:20 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/576134974/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/573300643/year.md">
 				HC_CC_01_Portfolio
 			</a>
@@ -325,7 +357,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/9 1:11 AM UTC</i></small>
+<small><i>Last updated on 2022/12/9 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
