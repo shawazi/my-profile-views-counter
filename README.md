@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/10 1:13 AM UTC
+			2022/12/11 1:13 AM UTC
 		</td>
 		<td>
 			0
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/10 1:13 AM UTC
+			2022/12/11 1:13 AM UTC
 		</td>
 		<td>
 			0
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/10 1:15 AM UTC
+			2022/12/11 1:15 AM UTC
 		</td>
 		<td>
 			1
@@ -410,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/10 1:15 AM UTC
+			2022/12/11 1:15 AM UTC
 		</td>
 		<td>
 			1
@@ -421,7 +421,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/13 1:15 AM UTC</i></small>
+<small><i>Last updated on 2022/12/13 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
@@ -432,7 +432,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
-- Do not commit any changes to `./cache` directory. This feature helps the integrity of the records for visitors.
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
 - The app will automatically stop measuring insights until you revoke those commits.
 ## 📦 Third party
 
