@@ -432,7 +432,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
-- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- Do not commit any changes to `./cache` directory. This feature helps the integrity of the records for visitors.
 - The app will automatically stop measuring insights until you revoke those commits.
 ## 📦 Third party
 
