@@ -1,7 +1,7 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [death](https://github.com/shawazi/death)
-![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/571632630/large/year.png)
+### :octocat: [JS_assignment_12_12](https://github.com/shawazi/JS_assignment_12_12)
+![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/577602088/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>22</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/14 6:19 AM UTC</i></small>
+<small><i>Last updated on 2022/12/14 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/571632630/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/571632630/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/577602088/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/week.md)
 ```readme
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/571632630/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/571632630/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/577602088/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/week.md)
 ```
 ### Header
-# death [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/571632630/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/571632630/year.md)
+# JS_assignment_12_12 [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/577602088/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/year.md)
 ```readme
-# death [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/571632630/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/571632630/year.md)
+# JS_assignment_12_12 [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/577602088/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
