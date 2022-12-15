@@ -422,7 +422,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/577602088/year.md">
-				JS_assignment_12_12
+				JS_Assignments
 			</a>
 		</td>
 		<td>
@@ -437,7 +437,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/15 1:13 AM UTC</i></small>
+<small><i>Last updated on 2022/12/15 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
