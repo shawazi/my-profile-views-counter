@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:09 AM UTC
+			2022/12/16 1:03 AM UTC
 		</td>
 		<td>
 			4
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:09 AM UTC
+			2022/12/16 1:04 AM UTC
 		</td>
 		<td>
 			0
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:09 AM UTC
+			2022/12/16 1:04 AM UTC
 		</td>
 		<td>
 			0
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:10 AM UTC
+			2022/12/16 1:04 AM UTC
 		</td>
 		<td>
 			0
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:10 AM UTC
+			2022/12/16 1:04 AM UTC
 		</td>
 		<td>
 			0
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:10 AM UTC
+			2022/12/16 1:04 AM UTC
 		</td>
 		<td>
 			1
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:10 AM UTC
+			2022/12/16 1:04 AM UTC
 		</td>
 		<td>
 			1
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:10 AM UTC
+			2022/12/16 1:05 AM UTC
 		</td>
 		<td>
 			0
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:10 AM UTC
+			2022/12/16 1:05 AM UTC
 		</td>
 		<td>
 			2
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:10 AM UTC
+			2022/12/16 1:05 AM UTC
 		</td>
 		<td>
 			2
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:05 AM UTC
 		</td>
 		<td>
 			0
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:05 AM UTC
 		</td>
 		<td>
 			0
@@ -218,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:05 AM UTC
 		</td>
 		<td>
 			0
@@ -234,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:05 AM UTC
 		</td>
 		<td>
 			0
@@ -250,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:06 AM UTC
 		</td>
 		<td>
 			0
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:06 AM UTC
 		</td>
 		<td>
 			6
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:06 AM UTC
 		</td>
 		<td>
 			1
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:11 AM UTC
+			2022/12/16 1:06 AM UTC
 		</td>
 		<td>
 			1
@@ -314,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:12 AM UTC
+			2022/12/16 1:06 AM UTC
 		</td>
 		<td>
 			1
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:12 AM UTC
+			2022/12/16 1:06 AM UTC
 		</td>
 		<td>
 			1
@@ -346,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:12 AM UTC
+			2022/12/16 1:06 AM UTC
 		</td>
 		<td>
 			0
@@ -362,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:12 AM UTC
+			2022/12/16 1:07 AM UTC
 		</td>
 		<td>
 			2
@@ -378,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:12 AM UTC
+			2022/12/16 1:07 AM UTC
 		</td>
 		<td>
 			3
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:12 AM UTC
+			2022/12/16 1:07 AM UTC
 		</td>
 		<td>
 			2
@@ -410,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:12 AM UTC
+			2022/12/16 1:07 AM UTC
 		</td>
 		<td>
 			2
@@ -426,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/15 1:13 AM UTC
+			2022/12/16 1:07 AM UTC
 		</td>
 		<td>
 			4
@@ -435,9 +435,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/577602088/small/year.png" height="20"> 44
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/579449929/year.md">
+				HC_CC_04_Parallax
+			</a>
+		</td>
+		<td>
+			2022/12/15 1:09 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/579449929/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/17 6:17 PM UTC</i></small>
+<small><i>Last updated on 2022/12/18 1:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
