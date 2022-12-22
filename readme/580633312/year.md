@@ -1,6 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [brute](https://github.com/shawazi/brute)
+### :octocat: [Arbitrager](https://github.com/shawazi/Arbitrager)
 ![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/580633312/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/22 12:27 PM UTC</i></small>
+<small><i>Last updated on 2022/12/22 6:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/580633312/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/580633312/week.md)
 ```
 ### Header
-# brute [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/580633312/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/580633312/year.md)
+# Arbitrager [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/580633312/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/580633312/year.md)
 ```readme
-# brute [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/580633312/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/580633312/year.md)
+# Arbitrager [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/580633312/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/580633312/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
