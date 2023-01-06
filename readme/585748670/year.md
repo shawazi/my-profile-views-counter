@@ -1,7 +1,7 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [JS_Assignments](https://github.com/shawazi/JS_Assignments)
-![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/577602088/large/year.png)
+### :octocat: [Vendor_Hub](https://github.com/shawazi/Vendor_Hub)
+![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/585748670/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>31</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/6 6:08 AM UTC</i></small>
+<small><i>Last updated on 2023/1/6 6:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/577602088/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/585748670/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/585748670/week.md)
 ```readme
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/577602088/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/585748670/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/585748670/week.md)
 ```
 ### Header
-# JS_Assignments [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/577602088/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/year.md)
+# Vendor_Hub [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/585748670/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/585748670/year.md)
 ```readme
-# JS_Assignments [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/577602088/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/577602088/year.md)
+# Vendor_Hub [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/585748670/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/585748670/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
