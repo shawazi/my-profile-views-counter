@@ -1,7 +1,7 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [HC-08-Bootstrap](https://github.com/shawazi/HC-08-Bootstrap)
-![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/594752155/large/year.png)
+### :octocat: [JS_05_Weather](https://github.com/shawazi/JS_05_Weather)
+![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596396765/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/594752155/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/594752155/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/596396765/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/week.md)
 ```readme
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/594752155/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/594752155/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/596396765/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/week.md)
 ```
 ### Header
-# HC-08-Bootstrap [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/594752155/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/594752155/year.md)
+# JS_05_Weather [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596396765/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/year.md)
 ```readme
-# HC-08-Bootstrap [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/594752155/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/594752155/year.md)
+# JS_05_Weather [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596396765/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
