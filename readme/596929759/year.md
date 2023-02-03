@@ -1,7 +1,7 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [kaiju](https://github.com/shawazi/kaiju)
-![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/575530850/large/year.png)
+### :octocat: [documentation](https://github.com/shawazi/documentation)
+![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596929759/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -45,10 +45,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/2/3 6:07 PM UTC</i></small>
+<small><i>Last updated on 2023/2/3 6:08 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/575530850/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/575530850/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/596929759/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596929759/week.md)
 ```readme
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/575530850/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/575530850/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/596929759/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596929759/week.md)
 ```
 ### Header
-# kaiju [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/575530850/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/575530850/year.md)
+# documentation [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596929759/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596929759/year.md)
 ```readme
-# kaiju [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/575530850/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/575530850/year.md)
+# documentation [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596929759/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596929759/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
