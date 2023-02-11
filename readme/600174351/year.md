@@ -1,7 +1,7 @@
 ## [🔙 my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter)
 
-### :octocat: [JS_05_Weather](https://github.com/shawazi/JS_05_Weather)
-![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596396765/large/year.png)
+### :octocat: [JS_CC_12_HandleAPIResponse](https://github.com/shawazi/JS_CC_12_HandleAPIResponse)
+![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/graph/600174351/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/2/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>5</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/2/11 6:08 AM UTC</i></small>
+<small><i>Last updated on 2023/2/11 6:09 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/596396765/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/600174351/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/600174351/week.md)
 ```readme
-[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/596396765/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/week.md)
+[![Image of my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/600174351/badge.svg)](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/600174351/week.md)
 ```
 ### Header
-# JS_05_Weather [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596396765/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/year.md)
+# JS_CC_12_HandleAPIResponse [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/600174351/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/600174351/year.md)
 ```readme
-# JS_05_Weather [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/596396765/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/596396765/year.md)
+# JS_CC_12_HandleAPIResponse [<img alt="Image of my-profile-views-counter" src="https://github.com/shawazi/my-profile-views-counter/blob/master/graph/600174351/small/year.png" height="20">](https://github.com/shawazi/my-profile-views-counter/blob/master/readme/600174351/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
