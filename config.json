@@ -40,7 +40,9 @@
     "HC-08-Bootstrap",
     "JS_05_Weather",
     "documentation",
-    "JS_CC_12_HandleAPIResponse"
+    "JS_CC_12_HandleAPIResponse",
+    "JS_06_Library_App",
+    "JS_06_Library_Nao"
     
   ]
 }
