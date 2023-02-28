@@ -659,9 +659,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/600538626/small/year.png" height="20"> 33
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/607590538/year.md">
+				react-03-horoscope
+			</a>
+		</td>
+		<td>
+			2023/2/25 6:09 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/607590538/small/year.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/2/28 12:11 PM UTC</i></small>
+<small><i>Last updated on 2023/2/28 6:09 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
