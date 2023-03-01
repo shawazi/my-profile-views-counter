@@ -43,7 +43,9 @@
     "JS_CC_12_HandleAPIResponse",
     "JS_06_Library_App",
     "JS_06_Library_Nao",
+    "react-o1-gallery",
+    "react-02-locations",
     "react-03-horoscope",
-    "react-practice"
+    "react-practice",
   ]
 }
