@@ -44,8 +44,12 @@
     "JS_06_Library_App",
     "JS_06_Library_Nao",
     "react-practice",
-    "react-o1-gallery",
+    "react-01-gallery",
     "react-02-locations",
     "react-03-horoscope",
+    "react-04-languages",
+    "react-06-random",
+    "rp-06-randomjohn",
+    "react-07-tasks"
   ]
 }
