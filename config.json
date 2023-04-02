@@ -56,6 +56,8 @@
     "Countdown_Component",
     "todo-app-react",
     "react-11-contacts",
-    "stock-app"
+    "stock-app",
+    "lodash-debounce",
+    "react-13-blog"
   ]
 }
