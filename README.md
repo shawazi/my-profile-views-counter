@@ -915,9 +915,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/622368908/small/year.png" height="20"> 5
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/shawazi/my-profile-views-counter/tree/master/readme/623724137/year.md">
+				react-typescript-task-manager
+			</a>
+		</td>
+		<td>
+			2023/4/2 6:12 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/shawazi/my-profile-views-counter/raw/master/graph/623724137/small/year.png" height="20"> 7
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/5 12:19 AM UTC</i></small>
+<small><i>Last updated on 2023/4/5 6:12 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
