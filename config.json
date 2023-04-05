@@ -58,6 +58,7 @@
     "react-11-contacts",
     "stock-app",
     "lodash-debounce",
-    "react-13-blog"
+    "react-13-blog",
+    "react-typescript-task-manager"
   ]
 }
