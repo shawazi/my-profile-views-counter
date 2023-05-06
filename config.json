@@ -60,6 +60,9 @@
     "lodash-debounce",
     "react-13-blog",
     "react-typescript-task-manager",
-    "interview-prep-week-7-menu"
+    "interview-prep-week-7-menu",
+    "basic_py_fib",
+    "python_exercises",
+    "django_teamwork1",
   ]
 }
