@@ -64,5 +64,6 @@
     "basic_py_fib",
     "python_exercises",
     "django_teamwork1",
+    "orm_intro",
   ]
 }
